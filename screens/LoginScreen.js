@@ -205,7 +205,7 @@ export default class WelcomeScreen extends React.Component
                      this.showModal()
                  }
            <View style={styles.profileContainer}>
-               <Text style={styles.title}>BARTAR SYSTEM</Text>
+               <Text style={styles.title}>BARTER SYSTEM</Text>
            </View>
             <View style={styles.buttonContainer}>
 
